@@ -1,0 +1,8 @@
+.gradle/
+build/
+*.lock
+*.bin
+.DS_Store
+.idea/
+*.iml
+
